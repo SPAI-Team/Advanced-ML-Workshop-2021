@@ -1,11 +1,16 @@
-# Advance_ML_Workshop
+# Advanced_ML_Workshop-2021
 
-GitHub Repository to host all materials for SPAI Advance Machine Learning Workshop
+## Overview
+SPAI Advance Machine Learning Workshop is the second installment of our Machine Learning Workshop series.
 
-| Day | Description |
-| --- | --- |
-| 0 | Beginner Machine Learning Bootcamp Recap |
-| 1 | Pipelines and Advance Preprocessing |
-| 2 | Bias and Variance |
-| 3 | Model Selection & Hyperparameter Tuning |
+## References
+- [Bank Marketing Dataset](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+- [Predicting Churn for Bank Customers](https://www.kaggle.com/adammaus/predicting-churn-for-bank-customers)
+- [Telco Customer Churn](https://www.kaggle.com/blastchar/telco-customer-churn)
+- [Pima Indians Diabetes Database](https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+- [Titanic Dataset](https://data.world/nrippner/titanic-disaster-dataset)
+- [Resale Housing Dataset](https://data.gov.sg/dataset/resale-flat-prices)
+- [Melbourne Housing Snapshot](https://www.kaggle.com/dansbecker/melbourne-housing-snapshot)
 
+## Contact Us
+<a href="https://www.instagram.com/spai.sp/"> <img alt="Instagram" src="https://img.shields.io/badge/SPAI.SP-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="mailto:SP_AI@ichat.sp.edu.sg"><img alt="Email" src="https://img.shields.io/badge/Email-SP_AI@iChat.sp.edu.sg-blue?style=for-the-badge"></a>
