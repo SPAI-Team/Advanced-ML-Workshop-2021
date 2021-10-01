@@ -29,10 +29,10 @@ The workshop's curriculum is designed for participants with prior basic Machine 
         <td>
             <ul>
 				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Advanced%20ML%20Workshop%20-%20Day%200.pdf">Slides</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Tutorial%20Notebooks/Day%200%20Tutorial%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Tutorial%20Notebooks/Day%200%20Tutorial%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
-                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Practical%20Notebooks/Day%200%20Practical%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Practical%20Notebooks/Day%200%20Practical%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Tutorial%20Notebooks/Day%200%20Tutorial%20Notebook%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Tutorial%20Notebooks/Day%200%20Tutorial%20Notebook%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
+                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Practical%20Notebooks/Day%200%20Practical%20Notebook%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%200_Beginner%20Machine%20Learning%20Recap/Practical%20Notebooks/Day%200%20Practical%20Notebook%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
             </ul>
         </td>
     <tr>
@@ -47,10 +47,10 @@ The workshop's curriculum is designed for participants with prior basic Machine 
         <td>
             <ul>
                 <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Advanced%20ML%20Workshop%20-%20Day%201.pdf">Slides</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Tutorial%20Notebooks/Day%201%20Tutorial%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Tutorial%20Notebooks/Day%201%20Tutorial%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
-                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Practical%20Notebooks/Day%201%20Practical%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Practical%20Notebooks/Day%201%20Practical%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Tutorial%20Notebooks/Day%201%20Tutorial%20Notebook%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Tutorial%20Notebooks/Day%201%20Tutorial%20Notebook%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
+                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Practical%20Notebooks/Day%201%20Practical%20Notebook%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%201_Pipelines%20Advanced%20Pre-processing/Practical%20Notebooks/Day%201%20Practical%20Notebook%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
             </ul>
         </td>
     </tr>
@@ -67,10 +67,10 @@ The workshop's curriculum is designed for participants with prior basic Machine 
         <td>
             <ul>
                 <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Advanced%20ML%20Workshop%20-%20Day%202.pdf">Slides</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Tutorial%20Notebooks/Day%202%20Tutorial%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Tutorial%20Notebooks/Day%202%20Tutorial%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
-                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Practical%20Notebooks/Day%202%20Practical%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Practical%20Notebooks/Day%202%20Practical%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Tutorial%20Notebooks/Day%202%20Tutorial%20Notebook%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Tutorial%20Notebooks/Day%202%20Tutorial%20Notebook%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
+                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Practical%20Notebooks/Day%202%20Practical%20Notebook%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%202_Bias%20and%20Variance/Practical%20Notebooks/Day%202%20Practical%20Notebook%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
             </ul>
         </td>
     </tr>
@@ -88,10 +88,9 @@ The workshop's curriculum is designed for participants with prior basic Machine 
         <td>
             <ul>
                 <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Advanced%20ML%20Workshop%20-%20Day%203.pdf">Slides</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Tutorial%20Notebooks/Day%203%20Tutorial%20(Instructor).ipynb">Tutorial Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Tutorial%20Notebooks/Day%203%20Tutorial%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
-                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Practical%20Notebooks/Day%203%20Practical%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
-				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Practical%20Notebooks/Day%203%20Practical%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Tutorial%20Notebooks/Day%203%20Tutorial%20Notebook%20(Participant).ipynb">Tutorial Notebook (Participant)</a></li>
+                <li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Practical%20Notebooks/Day%203%20Practical%20Notebook%20(Instructor).ipynb">Practical Notebook (Instructor)</a></li>
+				<li><a href="https://github.com/SPAI-Team/Advanced-ML-Workshop-2021/tree/main/Advance%20Machine%20Learning%20Workshop/Day%203_Model%20Selection%20Hyperparameter%20Tuning/Practical%20Notebooks/Day%203%20Practical%20Notebook%20(Participant).ipynb">Practical Notebook (Participant)</a></li>
             </ul>
         </td>
     <tr>
